@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using BankAlert.Models;
+using BankAlert.SFMCService;
 
 namespace BankAlert.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
+        private AlertService alertService;
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -20,6 +21,8 @@ namespace BankAlert.Controllers
 
         public IActionResult Index()
         {
+            alertService = new AlertService();
+            alertService.GetDataExtension();
             return View();
         }
 

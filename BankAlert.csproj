@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="system.servicemodel" Version="1.0.0" />
+    <PackageReference Include="system.servicemodel.http" Version="4.7.0" />
+    <PackageReference Include="system.servicemodel.primitives" Version="4.7.0" />
+  </ItemGroup>
+
 </Project>

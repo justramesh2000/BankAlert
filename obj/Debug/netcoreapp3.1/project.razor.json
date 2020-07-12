@@ -1,5 +1,5 @@
 {
-  "FilePath": "/ramesh/Learning/BankAlert/BankAlert/BankAlert.csproj",
+  "FilePath": "/ramesh/Learning/BankAlert/BankAlert.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,63 +20521,63 @@
   "RootNamespace": "BankAlert",
   "Documents": [
     {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/AlertCenter/CreditCardAlert.cshtml",
-      "TargetPath": "Views\\AlertCenter\\CreditCardAlert.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/ramesh/Learning/BankAlert/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/AlertCenter/AlertSetting.cshtml",
-      "TargetPath": "Views\\AlertCenter\\AlertSetting.cshtml",
+      "FilePath": "/ramesh/Learning/BankAlert/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/AlertCenter/BankAlert.cshtml",
-      "TargetPath": "Views\\AlertCenter\\BankAlert.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/AlertCenter/BudgetAlert.cshtml",
+      "FilePath": "/ramesh/Learning/BankAlert/Views/AlertCenter/BudgetAlert.cshtml",
       "TargetPath": "Views\\AlertCenter\\BudgetAlert.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "/ramesh/Learning/BankAlert/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/Home/Index.cshtml",
+      "FilePath": "/ramesh/Learning/BankAlert/Views/AlertCenter/AlertInbox.cshtml",
+      "TargetPath": "Views\\AlertCenter\\AlertInbox.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/ramesh/Learning/BankAlert/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/ramesh/Learning/BankAlert/BankAlert/Views/AlertCenter/AlertInbox.cshtml",
-      "TargetPath": "Views\\AlertCenter\\AlertInbox.cshtml",
+      "FilePath": "/ramesh/Learning/BankAlert/Views/AlertCenter/CreditCardAlert.cshtml",
+      "TargetPath": "Views\\AlertCenter\\CreditCardAlert.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/ramesh/Learning/BankAlert/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/ramesh/Learning/BankAlert/Views/AlertCenter/BankAlert.cshtml",
+      "TargetPath": "Views\\AlertCenter\\BankAlert.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/ramesh/Learning/BankAlert/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/ramesh/Learning/BankAlert/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/ramesh/Learning/BankAlert/Views/AlertCenter/AlertSetting.cshtml",
+      "TargetPath": "Views\\AlertCenter\\AlertSetting.cshtml",
       "FileKind": "mvc"
     }
   ],

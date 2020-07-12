@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "KJQYAAqGJ3m7XrPyGsvdvcACKbSN/Dj510n3nC1gMPSuCFzW6HBVHMOLBFcfUEwmCMV/pLNCxV48QErfa2oS9Q==",
+  "dgSpecHash": "C20tGRDxZpKNue9XDmGO1cOW9zTRogc+jXSeOe8SkvcqRdnTYX3Y4bf/jlJZMWUMr/tn3QS3gIsUiz/qIwJ82Q==",
   "success": true,
-  "projectFilePath": "/ramesh/Learning/BankAlert/BankAlert/BankAlert.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/ramesh/Learning/BankAlert/BankAlert.csproj",
+  "expectedPackageFiles": [
+    "/Users/rameshsinha/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.private.servicemodel/4.7.0/system.private.servicemodel.4.7.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.reflection.dispatchproxy/4.5.0/system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.security.cryptography.pkcs/4.5.0/system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.security.cryptography.xml/4.5.0/system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.servicemodel/1.0.0/system.servicemodel.1.0.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.servicemodel.http/4.7.0/system.servicemodel.http.4.7.0.nupkg.sha512",
+    "/Users/rameshsinha/.nuget/packages/system.servicemodel.primitives/4.7.0/system.servicemodel.primitives.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
